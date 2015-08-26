@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mobile Native app Demo Test Suite 1" duration-ms="100144" started-at="2015-08-21T10:53:32Z" finished-at="2015-08-21T10:55:12Z">
+    <groups>
+    </groups>
+    <test name="Mobile Native Demo Test 1" duration-ms="100144" started-at="2015-08-21T10:53:32Z" finished-at="2015-08-21T10:55:12Z">
+      <class name="vivino.tests.MobileDemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@6d7416c8]" name="setup" is-config="true" duration-ms="18894" started-at="2015-08-21T13:53:32Z" finished-at="2015-08-21T13:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkNearbyPlaces()[pri:0, instance:vivino.tests.MobileDemoTest@6d7416c8]" name="checkNearbyPlaces" duration-ms="80490" started-at="2015-08-21T13:53:51Z" finished-at="2015-08-21T13:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNearbyPlaces -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@6d7416c8]" name="tearDown" is-config="true" duration-ms="741" started-at="2015-08-21T13:55:11Z" finished-at="2015-08-21T13:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- vivino.tests.MobileDemoTest -->
+    </test> <!-- Mobile Native Demo Test 1 -->
+  </suite> <!-- Mobile Native app Demo Test Suite 1 -->
+</testng-results>

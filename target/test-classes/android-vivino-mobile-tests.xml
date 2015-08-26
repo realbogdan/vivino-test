@@ -1,0 +1,7 @@
+<suite name="Mobile Native app Demo Test Suite 1">
+	<test name="Mobile Native Demo Test 1">	
+		<classes>
+		    <class name="vivino.tests.MobileDemoTest"/>
+		</classes>	
+	</test>
+</suite>

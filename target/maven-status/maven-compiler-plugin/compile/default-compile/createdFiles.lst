@@ -1,0 +1,14 @@
+vivino\pages\UserProfilePage.class
+vivino\pages\StartPage.class
+vivino\utility\XmlPropertyLoader.class
+vivino\pages\CreateAnAccountPage.class
+vivino\pages\SignUpWithEmailPage.class
+vivino\pages\HomePage.class
+vivino\pages\Screen.class
+vivino\pages\FriendsPage.class
+vivino\pages\RecognizedWinePage.class
+vivino\pages\NewProfilePage.class
+vivino\pages\WhyNotRegisterPage.class
+vivino\pages\LogInPage.class
+vivino\pages\WelcomeBackPage.class
+vivino\pages\AddFriendsPage.class

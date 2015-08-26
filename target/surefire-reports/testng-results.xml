@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mobile Native app Demo Test Suite 1" duration-ms="340417" started-at="2015-08-21T10:58:51Z" finished-at="2015-08-21T11:04:31Z">
+    <groups>
+    </groups>
+    <test name="Mobile Native Demo Test 1" duration-ms="340417" started-at="2015-08-21T10:58:51Z" finished-at="2015-08-21T11:04:31Z">
+      <class name="vivino.tests.MobileDemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="setup" is-config="true" duration-ms="18327" started-at="2015-08-21T13:58:51Z" finished-at="2015-08-21T13:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="accountRegistration()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="accountRegistration" duration-ms="25012" started-at="2015-08-21T13:59:09Z" finished-at="2015-08-21T13:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="tearDown" is-config="true" duration-ms="633" started-at="2015-08-21T13:59:34Z" finished-at="2015-08-21T13:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="setup" is-config="true" duration-ms="17709" started-at="2015-08-21T13:59:35Z" finished-at="2015-08-21T13:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkNearbyPlaces()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="checkNearbyPlaces" duration-ms="39226" started-at="2015-08-21T13:59:53Z" finished-at="2015-08-21T14:00:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkNearbyPlaces -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="tearDown" is-config="true" duration-ms="723" started-at="2015-08-21T14:00:32Z" finished-at="2015-08-21T14:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="setup" is-config="true" duration-ms="18224" started-at="2015-08-21T14:00:33Z" finished-at="2015-08-21T14:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="followUser()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="followUser" duration-ms="81633" started-at="2015-08-21T14:00:51Z" finished-at="2015-08-21T14:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- followUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="tearDown" is-config="true" duration-ms="653" started-at="2015-08-21T14:02:12Z" finished-at="2015-08-21T14:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="setup" is-config="true" duration-ms="18120" started-at="2015-08-21T14:02:13Z" finished-at="2015-08-21T14:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="logIn" duration-ms="63376" started-at="2015-08-21T14:02:31Z" finished-at="2015-08-21T14:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="tearDown" is-config="true" duration-ms="720" started-at="2015-08-21T14:03:35Z" finished-at="2015-08-21T14:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="setup" is-config="true" duration-ms="18321" started-at="2015-08-21T14:03:35Z" finished-at="2015-08-21T14:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="recognizeVine()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="recognizeVine" duration-ms="36918" started-at="2015-08-21T14:03:54Z" finished-at="2015-08-21T14:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recognizeVine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:vivino.tests.MobileDemoTest@582138]" name="tearDown" is-config="true" duration-ms="802" started-at="2015-08-21T14:04:31Z" finished-at="2015-08-21T14:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- vivino.tests.MobileDemoTest -->
+    </test> <!-- Mobile Native Demo Test 1 -->
+  </suite> <!-- Mobile Native app Demo Test Suite 1 -->
+</testng-results>

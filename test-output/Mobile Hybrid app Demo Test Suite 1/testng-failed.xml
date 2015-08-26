@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Mobile Hybrid app Demo Test Suite 1]">
+  <parameter name="osType" value="android"/>
+  <parameter name="appType" value="native"/>
+  <parameter name="mobileDeviceName" value="02c5603308eb1b68"/>
+  <test name="Mobile Native Demo Test 1(failed)">
+    <classes>
+      <class name="vivino.tests.MobileDemoTest">
+        <methods>
+          <include name="recognizeVine"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- vivino.tests.MobileDemoTest -->
+    </classes>
+  </test> <!-- Mobile Native Demo Test 1(failed) -->
+</suite> <!-- Failed suite [Mobile Hybrid app Demo Test Suite 1] -->
