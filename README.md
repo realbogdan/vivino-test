@@ -4,4 +4,4 @@
 
 Tools: Maven, Java, Selenium/Appium, TestNG, adb.
 Tested on: Nexus 5 (2013) real device.
-Tested app: Vivino 8.6.1 taken from Playstore (https://drive.google.com/file/d/0B9eDwcdCsJltbHBqOTN5SWNOOVE/view?usp=sharing).
+App: Vivino 8.6.1 taken from Playstore (https://drive.google.com/file/d/0B9eDwcdCsJltbHBqOTN5SWNOOVE/view?usp=sharing).
